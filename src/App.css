@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Fares';
+  src: local('Fares'), url(./fonts/FAFERS_Technical_Font.ttf) format('truetype');
+}
+/*@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham'), url(./fonts/Hero.otf) format('opentype');
+} */
+
+.App{
+    text-align: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
